@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @t3chjunk1e
+- 👋 Hi, I’m Alberto Castro
+- I'm an Information Technology Manager at my organization.
 - 👀 I’m interested in ... learning web development, machine learning, and technical documentation.
 - 🌱 I’m currently learning ... Jira's Managing Service Projects and Cisco's Intro to Cybersecurity.
 - 💞️ I’m looking to collaborate on ... open-source projects of any kind.
